@@ -1,0 +1,16 @@
+h1{
+  background: red;
+  color: white;
+  text-align: center;
+}
+body{
+  background:
+  url(https://images.unsplash.com/photo-1579004464832-0c014afa448c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500s&q=10)
+
+}
+.container .jumbtron{
+  background: red;
+  color: white;
+  margin-top: 50px;
+
+}
